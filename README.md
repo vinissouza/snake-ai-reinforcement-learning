@@ -1,2 +1,2 @@
 # snake-ai-reinforcement-learning
-Game creation using Pygame and reinforcement learning using Pytorch.
+Implementation of a snake game with the intention of using it to train an agent with Pytorch through reinforcement learning.
